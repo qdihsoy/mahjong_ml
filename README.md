@@ -6,11 +6,17 @@
 ## フォルダ構成
 
 mahjong_ml_project/
+
 ├── class_indices.json # ラベルとクラス番号の対応
+
 ├── mahjong_cnn_local.py # モデルの学習用スクリプト
+
 ├── mahjong_cnn_model.h5 # 学習済みモデル
+
 ├── predict_tile.py # 単一画像の予測スクリプト
+
 ├── streamlit_app.py # StreamlitによるWebアプリ
+
 └── test_tile.png # テスト画像
 
 
