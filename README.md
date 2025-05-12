@@ -15,6 +15,10 @@ mahjong_ml_project/
 
 ├── predict_tile.py # 単一画像の予測スクリプト
 
+├── README.md
+
+├── requirements.txt
+
 ├── streamlit_app.py # StreamlitによるWebアプリ
 
 └── test_tile.png # テスト画像
